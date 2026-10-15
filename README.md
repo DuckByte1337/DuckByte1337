@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DuckByte1337/DuckByte1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/DuckByte1337/duckcraft/raw/main/logo.svg" width="120" alt="Low poly duck holding a cube">
 
-Here are some ideas to get you started:
+# Hi, I'm DuckByte 🦆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build small, friendly tools and learn by shipping them.
+
+</div>
+
+## Currently
+
+- 🧊 Building [DUCKCRAFT](https://github.com/DuckByte1337/duckcraft), a one-click panel for local Minecraft servers
+- 🛠️ Using Python, FastAPI and plain HTML/CSS/JS
+- 🤖 I use AI to speed up development, and I say so openly
+
+## Say hi
+
+Found a bug or have an idea? Open an issue on [DUCKCRAFT](https://github.com/DuckByte1337/duckcraft/issues).
